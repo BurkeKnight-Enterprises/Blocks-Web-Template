@@ -1,5 +1,11 @@
 # Blocks-Web-Template
-Blocks - For the Portal Look
+Blocks - For the Portal Look<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/Blocks-Web-Template.svg)](https://github.com/BK-Templates/Blocks-Web-Template/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/Blocks-Web-Template.svg)](hhttps://github.com/BK-Templates/Blocks-Web-Template/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/Blocks-Web-Template.svg)](https://github.com/BK-Templates/Blocks-Web-Template/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/Blocks-Web-Template.svg)](https://github.com/BK-Templates/Blocks-Web-Template/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Template Name: Blocks<br />
 Designer: BurkeKnight<br />
